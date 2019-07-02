@@ -1,2 +1,2 @@
 # hackathon_manchester
-sample repository
+sample repository to understand GITHUB commands.
